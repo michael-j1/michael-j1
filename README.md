@@ -1,4 +1,4 @@
 ### Hello,
-- 🔭 currently working on developing my code skills in JAVA, SQL, SpringBoot.
-- 🤔 I’m looking for help with understanding all the above.
+- 🔭 currently developing tech skills.
+- 🤔 I’m looking for ways I can transition into a tech role.
 - ⚡ Fun fact: I am a licensed Ordained Minister.
